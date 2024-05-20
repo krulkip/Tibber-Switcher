@@ -13,8 +13,8 @@ So when i buy a kWh from the grid i pay: (X + 0,0212 + 0,1088) * 1,21<br/>
 There are also fixed charges a month and there is a government refund. I have excluded these from the calculation.<br/>
 
 When i deliver electricity back to the grid i get the same components except the markup.<br/>
-Clearly the price should be greater than the price i have paid for charging so lets say X+Y Euro/kWh.<br/>
- - Market price = whatever it is at that moment say X+Y Euro/kWh. 
+Clearly the price should be greater than the price i have paid for charging so lets say Y Euro/kWh.<br/>
+ - Market price = whatever it is at that moment say Y Euro/kWh. 
  - Taxes                         0,1088 Euro/kWh
  - On all of these components there is 21% VAT
 
