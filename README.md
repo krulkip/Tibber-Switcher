@@ -2,6 +2,11 @@
 
 Tibber has dynamic pricing which varies by the hour.<br/>
 You can charge a battery at low price and sell power back to the grid at high prices.<br/>
+
+<img src="https://github.com/krulkip/Tibber-Switcher/blob/main/Tibber-Switcher.jpg" width="1024">
+
+# Code to follow
+
 In my case i have the following tarifs when i buy electricity from the grid.<br/>
 
  - Market price = whatever it is at that moment say X Euro/kWh. 
