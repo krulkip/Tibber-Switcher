@@ -7,6 +7,7 @@ You can charge a battery at low price and sell power back to the grid at high pr
 
 # Code to follow
 
+# Business case for charging
 In my case i have the following tarifs when i buy electricity from the grid.<br/>
 
  - Market price = whatever it is at that moment say X Euro/kWh. 
@@ -59,5 +60,5 @@ If i sell later for a price X after a charge discharge cycle i will get (X + 0,1
 In this case (Y + 0,1088) * 1,21 > (X + 0,1088) * 1,21 * efficiency<br>
 1,21 Y + 0,1316 > 1,0241 X + 0,1114<br>
 Y > 0,8464 X - 0,01669 because here we have charge efficiency 92% and inverter efficiency 92%<br>
-So if future price is 4 cents then current price should be higher than 1,7 cents<br>
-However if the future price is -2 cents then i need -3.3 cents to break even.
+So if current price is 1.7 cents the the future price needs to be at least 4.0 cents or higher to decice to charge<br>
+However if the current price is -3.3 cents then the future price should be -2.0 cents or higher to decide to carge.
